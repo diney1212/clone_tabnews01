@@ -1,3 +1,4 @@
 # clone_tabnews001
 ## Salvando alterações no Git
-### usando o comando reestore.
+* comando git push
+* comando git pull
